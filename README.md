@@ -1,4 +1,4 @@
-# Prácticas Tecnología de Computadores 21/22
+# Lab Tecnología de Computadores 21/22
 Prácticas de Logism de Tecnología de Computadores hechas durante el curso 21/22: **Circuitos combinacionales y secuenciales**
 
 Componentes
